@@ -1,1 +1,2 @@
-b29223aedf11f111eb1f8462094b0cca0d4b5c0cde4c089d8a584e863644acac  pihole_exporter-linux-amd64.tar.gz
+b7b71056ef28b428776c37621e1b435406ce2e2d1676eed91f7afd34e40481de  ./mikrotik-exporter_linux_amd64.tar.gz
+b29223aedf11f111eb1f8462094b0cca0d4b5c0cde4c089d8a584e863644acac  ./pihole_exporter-linux-amd64.tar.gz
