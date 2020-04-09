@@ -1,3 +1,3 @@
 b7b71056ef28b428776c37621e1b435406ce2e2d1676eed91f7afd34e40481de  ./mikrotik-exporter_linux_amd64.tar.gz
-07c0a88c3cfa34bd99796a2da8d00ca896b054715f92ed699ae133b1e5ba5771  nextcloud-exporter-v0.1.0.linux-amd64.zip
+07c0a88c3cfa34bd99796a2da8d00ca896b054715f92ed699ae133b1e5ba5771  ./nextcloud-exporter-v0.1.0.linux-amd64.zip
 b29223aedf11f111eb1f8462094b0cca0d4b5c0cde4c089d8a584e863644acac  ./pihole_exporter-linux-amd64.tar.gz
