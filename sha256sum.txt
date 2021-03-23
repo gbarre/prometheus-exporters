@@ -4,3 +4,4 @@ b29223aedf11f111eb1f8462094b0cca0d4b5c0cde4c089d8a584e863644acac  ./pihole_expor
 c27db1f619ccde35f810dda6e30acd4573f48e96546f4c31f935187b190dfe12  ./README.md
 4b5188f2fbab5943d0f5ef2a9753201c58e3f09e2cca46aa8d6e1ed1c787baa0  ./sha256sum.txt
 31bb4cb91bde577f0d22654f2095590cf84e209704ea9d84588c718595cfe808  ./squid-exporter_1.8.3.linux-amd64.tar.gz
+c0877c9e122aa0a5e2142785b724caf3d94022a344cc4d1eaac126ee8ad656e3  ./uptimerobot_exporter.tar.gz
