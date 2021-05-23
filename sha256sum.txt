@@ -2,6 +2,7 @@ b7b71056ef28b428776c37621e1b435406ce2e2d1676eed91f7afd34e40481de  ./mikrotik-exp
 daf80aaed52aad09cd0ea8a15ebce876617a151d23a7a6eb6b571c83fa872ed7  ./mikrotik-exporter_linux_arm.tar.gz
 07c0a88c3cfa34bd99796a2da8d00ca896b054715f92ed699ae133b1e5ba5771  ./nextcloud-exporter-v0.1.0.linux-amd64.zip
 b29223aedf11f111eb1f8462094b0cca0d4b5c0cde4c089d8a584e863644acac  ./pihole_exporter-linux-amd64.tar.gz
+8755da170db6a8cb41bd6085bdf29b655ccde1d0efaf44b88ab789af932297f7  ./pihole_exporter-linux-arm.tar.gz
 c27db1f619ccde35f810dda6e30acd4573f48e96546f4c31f935187b190dfe12  ./README.md
 4b5188f2fbab5943d0f5ef2a9753201c58e3f09e2cca46aa8d6e1ed1c787baa0  ./sha256sum.txt
 31bb4cb91bde577f0d22654f2095590cf84e209704ea9d84588c718595cfe808  ./squid-exporter_1.8.3.linux-amd64.tar.gz
